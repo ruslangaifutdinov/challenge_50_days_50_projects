@@ -1,0 +1,24 @@
+{
+  "name": "challenge_50_days_50_projects",
+  "version": "1.0.0",
+  "description": "50 projects in 50 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslangaifutdinov/challenge_50_days_50_projects.git"
+  },
+  "keywords": [
+    "Javascript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Ruslan Gaifutdinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslangaifutdinov/challenge_50_days_50_projects/issues"
+  },
+  "homepage": "https://github.com/ruslangaifutdinov/challenge_50_days_50_projects#readme"
+}
